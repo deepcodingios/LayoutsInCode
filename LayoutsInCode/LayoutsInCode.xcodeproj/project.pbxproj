@@ -15,6 +15,7 @@
 		27ECDA8226A3F8FF009D98FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27ECDA8026A3F8FF009D98FA /* LaunchScreen.storyboard */; };
 		27ECDA8D26A3F8FF009D98FA /* LayoutsInCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27ECDA8C26A3F8FF009D98FA /* LayoutsInCodeTests.swift */; };
 		27ECDA9826A3F8FF009D98FA /* LayoutsInCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27ECDA9726A3F8FF009D98FA /* LayoutsInCodeUITests.swift */; };
+		27ECDAA626A6793A009D98FA /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 27ECDAA526A6793A009D98FA /* level1.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		27ECDA9326A3F8FF009D98FA /* LayoutsInCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LayoutsInCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27ECDA9726A3F8FF009D98FA /* LayoutsInCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutsInCodeUITests.swift; sourceTree = "<group>"; };
 		27ECDA9926A3F8FF009D98FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27ECDAA526A6793A009D98FA /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		27ECDA7426A3F8FE009D98FA /* LayoutsInCode */ = {
 			isa = PBXGroup;
 			children = (
+				27ECDAA526A6793A009D98FA /* level1.txt */,
 				27ECDA7526A3F8FE009D98FA /* AppDelegate.swift */,
 				27ECDA7726A3F8FE009D98FA /* SceneDelegate.swift */,
 				27ECDA7926A3F8FE009D98FA /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27ECDA8226A3F8FF009D98FA /* LaunchScreen.storyboard in Resources */,
+				27ECDAA626A6793A009D98FA /* level1.txt in Resources */,
 				27ECDA7F26A3F8FF009D98FA /* Assets.xcassets in Resources */,
 				27ECDA7D26A3F8FE009D98FA /* Main.storyboard in Resources */,
 			);
